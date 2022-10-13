@@ -9,7 +9,7 @@ Session Management is done by storing session information by Web container...
 # Technology
 
 * Java 1.8
-* Spring Boot 2.7.3 (with Spring Web MVC, sspring-boot-starter-jdbc, spring-boot-starter-thymeleaf and spring-session-core dependencies)
+* Spring Boot 2.7.3 (with spring-boot-starter-web, spring-boot-starter-jdbc, spring-boot-starter-thymeleaf and spring-session-core dependencies)
 * Maven 3.8.1 or above
 
 # Create & Setup Spring Boot project
